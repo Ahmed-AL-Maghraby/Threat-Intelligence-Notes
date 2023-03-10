@@ -2,7 +2,19 @@
 
 
 
-# Threat Intelligence Tools
+# Threat Intelligence Online Tools
+
+<br> <br>
+
+| Table of contents |
+| ----------------- |
+| [Email analysis](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#emails) |
+| [URL analysis](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#url) |
+| [Domain and IP](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#domain-and-ip) |
+| [Files and Malware](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#files-and-malware) |
+| [Threat Intelligence PlatForms](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#platforms) |
+| [UserName Osint](https://github.com/ahmed-kamal-el-maghraby/Threat-Intelligence-Notes/blob/main/OSINT%20Tools.md#username) |
+
 
 ## Emails
 
