@@ -19,20 +19,45 @@ PhishTool : https://app.phishtool.com/
 
 scanning and analysing websites : https://urlscan.io/
 
+Screenshots as a Service : https://www.url2png.com/
 
+ Wannabrowser – Simulate any Browser : https://www.wannabrowser.net/
 
 
 
 
 ## Domain and IP
 
-## UserName
+IpInfo : https://ipinfo.io/
+
+AlienVault : https://otx.alienvault.com/
+
+Whoxy -Json Resilt : https://www.whoxy.com/whois-history/demo.php
+
+WhoIs : https://whois.domaintools.com/
+
+Threat Miner : https://www.threatminer.org/
+
+Roptex : https://www.robtex.com/
+
 
 ## Files and Malware
 
+online sandbox : https://app.any.run/
+
+VirusTotal : https://www.virustotal.com/gui/home/upload
+
+Cisco Talos Intelligence : https://talosintelligence.com/talos_file_reputation
+
+hybrid-analysis : https://www.hybrid-analysis.com/
+
+Joe Security - Deep Malware Analysis : https://www.joesecurity.org/
+
+
+
+
 ## PlatForms
 
- : 
 
 https://bazaar.abuse.ch/ :  A resource for sharing malware samples.
 
@@ -45,3 +70,16 @@ https://urlhaus.abuse.ch/ : A resource for sharing malware distribution sites.
 https://threatfox.abuse.ch/ : A resource for sharing indicators of compromise (IOCs).
 
 https://talosintelligence.com/ : Cisco Talos Intelligence
+
+
+
+
+
+## UserName
+
+
+
+
+
+
+
