@@ -14,6 +14,12 @@ Message Header Analyzer : https://mha.azurewebsites.net/
 
 PhishTool : https://app.phishtool.com/
 
+EML analyzer : https://eml-analyzer.herokuapp.com/
+
+Email Hunter (Search by doamin) : https://hunter.io/
+
+Email Reputation : https://emailrep.io/?search-input=
+
 
 ## URL
 
@@ -40,6 +46,11 @@ Threat Miner : https://www.threatminer.org/
 
 Roptex : https://www.robtex.com/
 
+DNS OSINT : https://viewdns.info/
+
+Registration data lookup : https://lookup.icann.org/en
+
+Search Google AnalytICS Code : https://www.nerdydata.com/
 
 ## Files and Malware
 
@@ -77,7 +88,7 @@ https://talosintelligence.com/ : Cisco Talos Intelligence
 
 ## UserName
 
-
+Instant Username Search : https://instantusername.com/#/
 
 
 
