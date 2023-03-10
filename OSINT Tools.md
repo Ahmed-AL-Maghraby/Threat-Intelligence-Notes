@@ -15,3 +15,5 @@ https://feodotracker.abuse.ch/ : A resource used to track botnet command and con
 https://urlhaus.abuse.ch/ : A resource for sharing malware distribution sites.
 
 https://threatfox.abuse.ch/ : A resource for sharing indicators of compromise (IOCs).
+
+https://talosintelligence.com/ : Cisco Talos Intelligence
